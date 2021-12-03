@@ -11,7 +11,5 @@ Node Application for real time weather data
 
 ## Snippets
 
->![This is a image](/Public/Img/Img1.png)
-
-
->![This is a image](/Public/Img/Img2.png)
+>![This is a image](/public/img/Img1.png)
+>![This is a image](/public/img/Img2.png)
